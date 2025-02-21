@@ -8,4 +8,4 @@ https://github.com/jcebreros11/DecisionTree \
 https://github.com/LeoPGB/KNN/blob/main/KNN.py \
 https://github.com/CreepyD246/OpenCV-Shape-Detection-Example 
 
-Certains ajustement proviennent de ChatGPT.
+Certains ajustement de ces codes (notamment la création des plots) proviennent de ChatGPT.
